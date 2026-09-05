@@ -86,3 +86,6 @@ python main.py --exp-name pet_baseline --skip-train --evaluate --gradcam
 - [Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/)
 - [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
 - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
+## 运行方式
+1. 安装依赖：pip install -r requirements.txt
+2. 运行主程序：python main.py
