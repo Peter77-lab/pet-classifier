@@ -1,0 +1,14 @@
+# 深度学习框架
+torch
+torchvision
+
+# 数值计算
+numpy
+
+# 数据划分与评估
+scikit-learn
+
+# 可视化
+matplotlib
+seaborn
+tensorboard
